@@ -1,6 +1,8 @@
 # JKBalle.github.io
 JK Balle's Computer Science portfolio.
 
+![My Photo](JKphoto.jpg) 
+
 # About Me
 
 Hi! I'm **Jean-Kemuel Balle**, a senior Computer Science major at the **University of St. Thomas**.  
